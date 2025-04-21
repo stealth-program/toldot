@@ -1,0 +1,28 @@
+{
+  "short_name": "Толдот",
+  "name": "Толдот — Иудаизм и евреи",
+  "icons": [
+    {
+      "src": "/logo/chrome/logo192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo/chrome/logo512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "browser",
+  "scope": "/",
+  "theme_color": "#0e53b2",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.kosherdev.toldot"
+    }
+  ]
+}
